@@ -1,5 +1,5 @@
 
-../Obj/mega328_T4_v2_st7565/mega328_T4_v2_st7565.elf:     file format elf32-avr
+../Obj/mega328_T4_v2_st7565_Li-Po/mega328_T4_v2_st7565_Li-Po.elf:     file format elf32-avr
 
 Sections:
 Idx Name          Size      VMA       LMA       File off  Algn
@@ -17,19 +17,19 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY
   6 .debug_aranges 00000698  00000000  00000000  00007500  2**3
                   CONTENTS, READONLY, DEBUGGING
-  7 .debug_info   0000c010  00000000  00000000  00007b98  2**0
+  7 .debug_info   0000c05e  00000000  00000000  00007b98  2**0
                   CONTENTS, READONLY, DEBUGGING
-  8 .debug_abbrev 00002726  00000000  00000000  00013ba8  2**0
+  8 .debug_abbrev 00002726  00000000  00000000  00013bf6  2**0
                   CONTENTS, READONLY, DEBUGGING
-  9 .debug_line   00007988  00000000  00000000  000162ce  2**0
+  9 .debug_line   00007986  00000000  00000000  0001631c  2**0
                   CONTENTS, READONLY, DEBUGGING
- 10 .debug_frame  00000d40  00000000  00000000  0001dc58  2**2
+ 10 .debug_frame  00000d40  00000000  00000000  0001dca4  2**2
                   CONTENTS, READONLY, DEBUGGING
- 11 .debug_str    00001b40  00000000  00000000  0001e998  2**0
+ 11 .debug_str    00001b46  00000000  00000000  0001e9e4  2**0
                   CONTENTS, READONLY, DEBUGGING
- 12 .debug_loc    00006e79  00000000  00000000  000204d8  2**0
+ 12 .debug_loc    00006e79  00000000  00000000  0002052a  2**0
                   CONTENTS, READONLY, DEBUGGING
- 13 .debug_ranges 00000450  00000000  00000000  00027351  2**0
+ 13 .debug_ranges 00000450  00000000  00000000  000273a3  2**0
                   CONTENTS, READONLY, DEBUGGING
 
 Disassembly of section .text:
@@ -9167,10 +9167,10 @@ shut_off:
     30ce:	0c 94 c7 37 	jmp	0x6f8e	; 0x6f8e <__epilogue_restores__>
 
 000030d2 <Battery_check>:
-//        lcd_line1();			// Cursor to 1. row, column 1
-//#define BAT_CHECK
-//#define BAT_OUT
 
+//	  Calibrate_UR();		// get Ref Voltages and Pin resistance
+//        lcd_line1();			// Cursor to 1. row, column 1
+	  
 #ifdef BAT_CHECK
 void Battery_check(void) {
     30d2:	0f 93       	push	r16

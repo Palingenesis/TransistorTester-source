@@ -1,288 +1,288 @@
 Archive member included to satisfy reference by file (symbol)
 
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
-                              ../Obj/mega328_T4_v2_st7565/ReadADC.o (__mulsi3)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/ReadADC.o (__mulsi3)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodqi4.o)
-                              ../Obj/mega328_T4_v2_st7565/function_menu.o (__udivmodqi4)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o (__udivmodqi4)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodhi4.o)
-                              ../Obj/mega328_T4_v2_st7565/RefVoltage.o (__udivmodhi4)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/RefVoltage.o (__udivmodhi4)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodhi4.o)
-                              ../Obj/mega328_T4_v2_st7565/function_menu.o (__divmodhi4)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o (__divmodhi4)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodsi4.o)
-                              ../Obj/mega328_T4_v2_st7565/DisplayValue.o (__udivmodsi4)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o (__udivmodsi4)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o)
-                              ../Obj/mega328_T4_v2_st7565/main.o (__divmodsi4)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/main.o (__divmodsi4)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_negsi2.o)
                               /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o) (__negsi2)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
                               /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328p.o (exit)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
-                              ../Obj/mega328_T4_v2_st7565/lcd-routines.o (__do_clear_bss)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o (__do_clear_bss)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulhisi3.o)
-                              ../Obj/mega328_T4_v2_st7565/main.o (__umulhisi3)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/main.o (__umulhisi3)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_usmulhisi3.o)
-                              ../Obj/mega328_T4_v2_st7565/main.o (__usmulhisi3)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/main.o (__usmulhisi3)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muluhisi3.o)
-                              ../Obj/mega328_T4_v2_st7565/main.o (__muluhisi3)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/main.o (__muluhisi3)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulshisi3.o)
-                              ../Obj/mega328_T4_v2_st7565/ReadCapacity.o (__mulshisi3)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o (__mulshisi3)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o)
-                              ../Obj/mega328_T4_v2_st7565/GetFrequency.o (__umulsidi3)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o (__umulsidi3)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o)
-                              ../Obj/mega328_T4_v2_st7565/GetFrequency.o (__udivdi3)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o (__udivdi3)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmod64.o)
                               /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o) (__udivmod64)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_prologue.o)
-                              ../Obj/mega328_T4_v2_st7565/lcd-routines.o (__prologue_saves__)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o (__prologue_saves__)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_epilogue.o)
-                              ../Obj/mega328_T4_v2_st7565/lcd-routines.o (__epilogue_restores__)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o (__epilogue_restores__)
 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muldi3_6.o)
                               /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o) (__muldi3_6)
 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
-                              ../Obj/mega328_T4_v2_st7565/DisplayValue.o (__ultoa_ncheck)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o (__ultoa_ncheck)
 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa.o)
-                              ../Obj/mega328_T4_v2_st7565/i2lcd.o (utoa)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/i2lcd.o (utoa)
 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
                               /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa.o) (__utoa_ncheck)
 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(strrev.o)
                               /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o) (strrev)
 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
-                              ../Obj/mega328_T4_v2_st7565/lcd-routines.o (eeprom_read_byte)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o (eeprom_read_byte)
 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328p.a(eerd_word.o)
-                              ../Obj/mega328_T4_v2_st7565/RefVoltage.o (eeprom_read_word)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/RefVoltage.o (eeprom_read_word)
 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
-                              ../Obj/mega328_T4_v2_st7565/main.o (eeprom_write_byte)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/main.o (eeprom_write_byte)
 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328p.a(eewr_word.o)
-                              ../Obj/mega328_T4_v2_st7565/main.o (eeprom_write_word)
+                              ../Obj/mega328_T4_v2_st7565_Li-Po/main.o (eeprom_write_word)
 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
                               /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328p.a(eerd_word.o) (eeprom_read_blraw)
 
 Allocating common symbols
 Common symbol       size              file
 
-diode_sequence      0x1               ../Obj/mega328_T4_v2_st7565/main.o
-ext_freq            0x4               ../Obj/mega328_T4_v2_st7565/main.o
-display_time        0x2               ../Obj/mega328_T4_v2_st7565/main.o
-rotary              0x7               ../Obj/mega328_T4_v2_st7565/main.o
-lc_fx               0x4               ../Obj/mega328_T4_v2_st7565/sampling_lc.o
-resis680mi          0x2               ../Obj/mega328_T4_v2_st7565/main.o
-icon_yy             0x1               ../Obj/mega328_T4_v2_st7565/lcd-routines.o
-ref_mv_offs         0x2               ../Obj/mega328_T4_v2_st7565/main.o
-NumOfDiodes         0x1               ../Obj/mega328_T4_v2_st7565/main.o
-PartMode            0x1               ../Obj/mega328_T4_v2_st7565/main.o
-PartFound           0x1               ../Obj/mega328_T4_v2_st7565/main.o
-resis680pl          0x2               ../Obj/mega328_T4_v2_st7565/main.o
-tmpval              0x1               ../Obj/mega328_T4_v2_st7565/main.o
-last_text_column    0x1               ../Obj/mega328_T4_v2_st7565/lcd-routines.o
-adc_vcc_reference   0x2               ../Obj/mega328_T4_v2_st7565/main.o
-inductor_lpre       0x1               ../Obj/mega328_T4_v2_st7565/main.o
-mess_count          0x1               ../Obj/mega328_T4_v2_st7565/main.o
-last_text_line      0x1               ../Obj/mega328_T4_v2_st7565/lcd-routines.o
-outval              0xa               ../Obj/mega328_T4_v2_st7565/main.o
-ADCconfig           0x6               ../Obj/mega328_T4_v2_st7565/main.o
-lc_cpartmp          0x2               ../Obj/mega328_T4_v2_st7565/sampling_lc.o
-pin_rpl             0x2               ../Obj/mega328_T4_v2_st7565/main.o
-ref_mv              0x2               ../Obj/mega328_T4_v2_st7565/main.o
-DC_Pwr_mode         0x1               ../Obj/mega328_T4_v2_st7565/main.o
-tmpval2             0x1               ../Obj/mega328_T4_v2_st7565/main.o
-UnCalibrated        0x1               ../Obj/mega328_T4_v2_st7565/main.o
-pin_rmi             0x2               ../Obj/mega328_T4_v2_st7565/main.o
-WithReference       0x1               ../Obj/mega328_T4_v2_st7565/main.o
-_lcd_column         0x1               ../Obj/mega328_T4_v2_st7565/main.o
-_trans              0x2               ../Obj/mega328_T4_v2_st7565/main.o
-lc_qx               0x2               ../Obj/mega328_T4_v2_st7565/sampling_lc.o
-last_line_used      0x1               ../Obj/mega328_T4_v2_st7565/main.o
-_page               0x1               ../Obj/mega328_T4_v2_st7565/lcd-routines.o
-ntrans              0x10              ../Obj/mega328_T4_v2_st7565/main.o
-empty_count         0x1               ../Obj/mega328_T4_v2_st7565/main.o
-pin_combination     0x1               ../Obj/mega328_T4_v2_st7565/main.o
-ovcnt16             0x2               ../Obj/mega328_T4_v2_st7565/main.o
-cell_mv             0x6               ../Obj/mega328_T4_v2_st7565/main.o
-ResistorChecked     0x3               ../Obj/mega328_T4_v2_st7565/main.o
-ResistorList        0x3               ../Obj/mega328_T4_v2_st7565/main.o
-ptrans              0x10              ../Obj/mega328_T4_v2_st7565/main.o
-pinchange_max       0x2               ../Obj/mega328_T4_v2_st7565/main.o
-pinchange_count     0x2               ../Obj/mega328_T4_v2_st7565/main.o
+diode_sequence      0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ext_freq            0x4               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+display_time        0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+rotary              0x7               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+lc_fx               0x4               ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
+resis680mi          0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+icon_yy             0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+ref_mv_offs         0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+NumOfDiodes         0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+PartMode            0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+PartFound           0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+resis680pl          0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+tmpval              0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+last_text_column    0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+adc_vcc_reference   0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+inductor_lpre       0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+mess_count          0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+last_text_line      0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+outval              0xa               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ADCconfig           0x6               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+lc_cpartmp          0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
+pin_rpl             0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ref_mv              0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+DC_Pwr_mode         0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+tmpval2             0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+UnCalibrated        0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+pin_rmi             0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+WithReference       0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+_lcd_column         0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+_trans              0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+lc_qx               0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
+last_line_used      0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+_page               0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+ntrans              0x10              ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+empty_count         0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+pin_combination     0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ovcnt16             0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+cell_mv             0x6               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ResistorChecked     0x3               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ResistorList        0x3               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ptrans              0x10              ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+pinchange_max       0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+pinchange_count     0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
 adc_internal_reference
-                    0x2               ../Obj/mega328_T4_v2_st7565/main.o
-ResistorsFound      0x1               ../Obj/mega328_T4_v2_st7565/main.o
+                    0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ResistorsFound      0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
 rotary_switch_present
-                    0x1               ../Obj/mega328_T4_v2_st7565/main.o
-unfinished          0x1               ../Obj/mega328_T4_v2_st7565/main.o
-RHmultip            0x2               ../Obj/mega328_T4_v2_st7565/main.o
-cap                 0x14              ../Obj/mega328_T4_v2_st7565/main.o
-load_diff           0x2               ../Obj/mega328_T4_v2_st7565/main.o
-diodes              0x18              ../Obj/mega328_T4_v2_st7565/main.o
-inductor_lx         0x4               ../Obj/mega328_T4_v2_st7565/main.o
-_xpos               0x1               ../Obj/mega328_T4_v2_st7565/lcd-routines.o
-lcd_text_line       0x1               ../Obj/mega328_T4_v2_st7565/main.o
-icon_xx             0x1               ../Obj/mega328_T4_v2_st7565/lcd-routines.o
-lc_lx               0x4               ../Obj/mega328_T4_v2_st7565/sampling_lc.o
-ResistorVal         0xc               ../Obj/mega328_T4_v2_st7565/main.o
+                    0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+unfinished          0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+RHmultip            0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+cap                 0x14              ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+load_diff           0x2               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+diodes              0x18              ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+inductor_lx         0x4               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+_xpos               0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+lcd_text_line       0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+icon_xx             0x1               ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+lc_lx               0x4               ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
+ResistorVal         0xc               ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
 
 Discarded input sections
 
  .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328p.o
  .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328p.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd_hw_4_bit.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd_hw_4_bit.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
  .text.lcd_write_word
-                0x0000000000000000       0x18 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000000000000000       0x18 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
  .text.lcd_fix_customchar
-                0x0000000000000000        0x2 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/i2lcd.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/i2lcd.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/PinLayout.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/PinLayout.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/RvalOut.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/RvalOut.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
- .text          0x0000000000000000        0x2 ../Obj/mega328_T4_v2_st7565/swuart.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/swuart.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/swuart.o
- .debug_line    0x0000000000000000       0x3a ../Obj/mega328_T4_v2_st7565/swuart.o
- .debug_info    0x0000000000000000       0xa6 ../Obj/mega328_T4_v2_st7565/swuart.o
- .debug_abbrev  0x0000000000000000       0x14 ../Obj/mega328_T4_v2_st7565/swuart.o
+                0x0000000000000000        0x2 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/i2lcd.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/i2lcd.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/PinLayout.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/PinLayout.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/RvalOut.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/RvalOut.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/UfAusgabe.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/UfAusgabe.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
+ .text          0x0000000000000000        0x2 ../Obj/mega328_T4_v2_st7565_Li-Po/swuart.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/swuart.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/swuart.o
+ .debug_line    0x0000000000000000       0x3a ../Obj/mega328_T4_v2_st7565_Li-Po/swuart.o
+ .debug_info    0x0000000000000000       0xac ../Obj/mega328_T4_v2_st7565_Li-Po/swuart.o
+ .debug_abbrev  0x0000000000000000       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/swuart.o
  .debug_aranges
-                0x0000000000000000       0x20 ../Obj/mega328_T4_v2_st7565/swuart.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/wait1000ms.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/wait1000ms.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadADC.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadADC.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/RefVoltage.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/RefVoltage.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/main.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/main.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000000000       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/swuart.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/wait1000ms.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/wait1000ms.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/sleep_5ms.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/sleep_5ms.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadADC.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadADC.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/RefVoltage.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/RefVoltage.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
  .progmem.data.bmp_inductor_data
-                0x0000000000000000       0x12 ../Obj/mega328_T4_v2_st7565/main.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/Battery_check.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/Battery_check.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/Battery_check.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckPins.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckPins.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckPins.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/GetResistance.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/GetResistance.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/GetResistance.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/EntladePins.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/EntladePins.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/EntladePins.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/get_log.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/get_log.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/GetESR.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/GetESR.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/GetVloss.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/GetVloss.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/GetVloss.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/function_menu.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/function_menu.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/function_menu.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/message_key_released.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/message_key_released.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/message_key_released.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+                0x0000000000000000       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/GetRLmultip.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/GetRLmultip.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/get_log.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/get_log.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/GetESR.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/GetESR.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
  .text.GetFrequency
-                0x0000000000000000      0x358 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
- .debug_info    0x0000000000000000       0x5d ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
- .debug_abbrev  0x0000000000000000       0x26 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
+                0x0000000000000000      0x358 ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckRotaryEncoder.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckRotaryEncoder.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckRotaryEncoder.o
+ .debug_info    0x0000000000000000       0x5d ../Obj/mega328_T4_v2_st7565_Li-Po/CheckRotaryEncoder.o
+ .debug_abbrev  0x0000000000000000       0x26 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckRotaryEncoder.o
  .debug_aranges
-                0x0000000000000000       0x18 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
- .debug_line    0x0000000000000000       0x1a ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
- .debug_str     0x0000000000000000      0x1be ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
- .comment       0x0000000000000000       0x12 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
- .debug_info    0x0000000000000000       0x5d ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
- .debug_abbrev  0x0000000000000000       0x26 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
+                0x0000000000000000       0x18 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckRotaryEncoder.o
+ .debug_line    0x0000000000000000       0x1a ../Obj/mega328_T4_v2_st7565_Li-Po/CheckRotaryEncoder.o
+ .debug_str     0x0000000000000000      0x1c4 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckRotaryEncoder.o
+ .comment       0x0000000000000000       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckRotaryEncoder.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/CalibrationCap.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/CalibrationCap.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/CalibrationCap.o
+ .debug_info    0x0000000000000000       0x5d ../Obj/mega328_T4_v2_st7565_Li-Po/CalibrationCap.o
+ .debug_abbrev  0x0000000000000000       0x26 ../Obj/mega328_T4_v2_st7565_Li-Po/CalibrationCap.o
  .debug_aranges
-                0x0000000000000000       0x18 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
- .debug_line    0x0000000000000000       0x1a ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
- .debug_str     0x0000000000000000      0x1ba ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
- .comment       0x0000000000000000       0x12 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckUJT.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckUJT.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckUJT.o
- .debug_info    0x0000000000000000       0x5d ../Obj/mega328_T4_v2_st7565/CheckUJT.o
- .debug_abbrev  0x0000000000000000       0x26 ../Obj/mega328_T4_v2_st7565/CheckUJT.o
+                0x0000000000000000       0x18 ../Obj/mega328_T4_v2_st7565_Li-Po/CalibrationCap.o
+ .debug_line    0x0000000000000000       0x1a ../Obj/mega328_T4_v2_st7565_Li-Po/CalibrationCap.o
+ .debug_str     0x0000000000000000      0x1c0 ../Obj/mega328_T4_v2_st7565_Li-Po/CalibrationCap.o
+ .comment       0x0000000000000000       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/CalibrationCap.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckUJT.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckUJT.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckUJT.o
+ .debug_info    0x0000000000000000       0x5d ../Obj/mega328_T4_v2_st7565_Li-Po/CheckUJT.o
+ .debug_abbrev  0x0000000000000000       0x26 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckUJT.o
  .debug_aranges
-                0x0000000000000000       0x18 ../Obj/mega328_T4_v2_st7565/CheckUJT.o
- .debug_line    0x0000000000000000       0x1a ../Obj/mega328_T4_v2_st7565/CheckUJT.o
- .debug_str     0x0000000000000000      0x1b4 ../Obj/mega328_T4_v2_st7565/CheckUJT.o
- .comment       0x0000000000000000       0x12 ../Obj/mega328_T4_v2_st7565/CheckUJT.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ShowData.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ShowData.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/ShowData.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+                0x0000000000000000       0x18 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckUJT.o
+ .debug_line    0x0000000000000000       0x1a ../Obj/mega328_T4_v2_st7565_Li-Po/CheckUJT.o
+ .debug_str     0x0000000000000000      0x1ba ../Obj/mega328_T4_v2_st7565_Li-Po/CheckUJT.o
+ .comment       0x0000000000000000       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckUJT.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/EE_check_init.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/EE_check_init.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/EE_check_init.o
  .text.EE_check_init
-                0x0000000000000000        0x2 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
- .debug_info    0x0000000000000000       0x7f ../Obj/mega328_T4_v2_st7565/EE_check_init.o
- .debug_abbrev  0x0000000000000000       0x44 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+                0x0000000000000000        0x2 ../Obj/mega328_T4_v2_st7565_Li-Po/EE_check_init.o
+ .debug_info    0x0000000000000000       0x7f ../Obj/mega328_T4_v2_st7565_Li-Po/EE_check_init.o
+ .debug_abbrev  0x0000000000000000       0x44 ../Obj/mega328_T4_v2_st7565_Li-Po/EE_check_init.o
  .debug_aranges
-                0x0000000000000000       0x20 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
- .debug_ranges  0x0000000000000000       0x10 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
- .debug_line    0x0000000000000000       0x3e ../Obj/mega328_T4_v2_st7565/EE_check_init.o
- .debug_str     0x0000000000000000      0x1c7 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
- .comment       0x0000000000000000       0x12 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
- .debug_frame   0x0000000000000000       0x24 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/samplingADC.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/samplingADC.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/samplingADC.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
- .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
- .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
- .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
- .debug_line    0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
- .debug_str     0x0000000000000000      0x149 ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
- .comment       0x0000000000000000       0x12 ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
+                0x0000000000000000       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/EE_check_init.o
+ .debug_ranges  0x0000000000000000       0x10 ../Obj/mega328_T4_v2_st7565_Li-Po/EE_check_init.o
+ .debug_line    0x0000000000000000       0x3e ../Obj/mega328_T4_v2_st7565_Li-Po/EE_check_init.o
+ .debug_str     0x0000000000000000      0x1cd ../Obj/mega328_T4_v2_st7565_Li-Po/EE_check_init.o
+ .comment       0x0000000000000000       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/EE_check_init.o
+ .debug_frame   0x0000000000000000       0x24 ../Obj/mega328_T4_v2_st7565_Li-Po/EE_check_init.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/samplingADC.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/samplingADC.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/samplingADC.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_xtal.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_xtal.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_xtal.o
+ .debug_line    0x0000000000000000        0x0 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_xtal.o
+ .debug_str     0x0000000000000000      0x14f ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_xtal.o
+ .comment       0x0000000000000000       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_xtal.o
  .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
  .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
  .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
@@ -605,47 +605,47 @@ Linker script and memory map
 
 Address of section .data set to 0x800100
 LOAD /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328p.o
-LOAD ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
-LOAD ../Obj/mega328_T4_v2_st7565/lcd-routines.o
-LOAD ../Obj/mega328_T4_v2_st7565/i2lcd.o
-LOAD ../Obj/mega328_T4_v2_st7565/PinLayout.o
-LOAD ../Obj/mega328_T4_v2_st7565/RvalOut.o
-LOAD ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
-LOAD ../Obj/mega328_T4_v2_st7565/DisplayValue.o
-LOAD ../Obj/mega328_T4_v2_st7565/lcd-draw.o
-LOAD ../Obj/mega328_T4_v2_st7565/swuart.o
-LOAD ../Obj/mega328_T4_v2_st7565/wait1000ms.o
-LOAD ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
-LOAD ../Obj/mega328_T4_v2_st7565/ReadADC.o
-LOAD ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
-LOAD ../Obj/mega328_T4_v2_st7565/RefVoltage.o
-LOAD ../Obj/mega328_T4_v2_st7565/main.o
-LOAD ../Obj/mega328_T4_v2_st7565/Battery_check.o
-LOAD ../Obj/mega328_T4_v2_st7565/CheckPins.o
-LOAD ../Obj/mega328_T4_v2_st7565/GetResistance.o
-LOAD ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
-LOAD ../Obj/mega328_T4_v2_st7565/EntladePins.o
-LOAD ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
-LOAD ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
-LOAD ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
-LOAD ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
-LOAD ../Obj/mega328_T4_v2_st7565/get_log.o
-LOAD ../Obj/mega328_T4_v2_st7565/ReadInductance.o
-LOAD ../Obj/mega328_T4_v2_st7565/GetESR.o
-LOAD ../Obj/mega328_T4_v2_st7565/GetVloss.o
-LOAD ../Obj/mega328_T4_v2_st7565/function_menu.o
-LOAD ../Obj/mega328_T4_v2_st7565/message_key_released.o
-LOAD ../Obj/mega328_T4_v2_st7565/GetFrequency.o
-LOAD ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
-LOAD ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
-LOAD ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
-LOAD ../Obj/mega328_T4_v2_st7565/CheckUJT.o
-LOAD ../Obj/mega328_T4_v2_st7565/ShowData.o
-LOAD ../Obj/mega328_T4_v2_st7565/EE_check_init.o
-LOAD ../Obj/mega328_T4_v2_st7565/samplingADC.o
-LOAD ../Obj/mega328_T4_v2_st7565/sampling_cap.o
-LOAD ../Obj/mega328_T4_v2_st7565/sampling_lc.o
-LOAD ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/lcd_hw_4_bit.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/i2lcd.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/PinLayout.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/RvalOut.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/UfAusgabe.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/swuart.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/wait1000ms.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/sleep_5ms.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/ReadADC.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/RefVoltage.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/GetRLmultip.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/get_log.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/GetESR.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/CheckRotaryEncoder.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/CalibrationCap.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/CheckUJT.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/EE_check_init.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/samplingADC.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
+LOAD ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_xtal.o
 START GROUP
 LOAD /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a
 LOAD /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libm.a
@@ -759,7 +759,7 @@ END GROUP
                 0x0000000000000000                __vector_default
  *(.vectors)
  *(.progmem.gcc*)
- .progmem.gcc   0x0000000000000068      0x128 ../Obj/mega328_T4_v2_st7565/samplingADC.o
+ .progmem.gcc   0x0000000000000068      0x128 ../Obj/mega328_T4_v2_st7565_Li-Po/samplingADC.o
                 0x0000000000000068                samplingADC
                 0x0000000000000068                samplingADC_freqgen_sck
                 0x0000000000000068                samplingADC_freqgen
@@ -773,63 +773,63 @@ END GROUP
  *libc.a:*(.progmem.data)
  *(.progmem*)
  .progmem.data.bmp_number
-                0x0000000000000190        0x6 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+                0x0000000000000190        0x6 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
  .progmem.data.bmp_vakdiode
-                0x0000000000000196       0x20 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000000196       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000000196                bmp_vakdiode
  .progmem.data.bmp_three_data
-                0x00000000000001b6        0x9 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000000000001b6        0x9 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x00000000000001b6                bmp_three_data
  .progmem.data.bmp_two_data
-                0x00000000000001bf        0x9 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000000000001bf        0x9 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x00000000000001bf                bmp_two_data
  .progmem.data.bmp_one_data
-                0x00000000000001c8        0x9 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000000000001c8        0x9 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x00000000000001c8                bmp_one_data
  .progmem.data.bmp_pnp
-                0x00000000000001d1        0x9 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000000000001d1        0x9 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x00000000000001d1                bmp_pnp
  .progmem.data.bmp_p_jfet
-                0x00000000000001da        0x7 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000000000001da        0x7 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x00000000000001da                bmp_p_jfet
  .progmem.data.bmp_p_d_mos
-                0x00000000000001e1       0x12 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000000000001e1       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x00000000000001e1                bmp_p_d_mos
  .progmem.data.bmp_n_d_mos
-                0x00000000000001f3        0x6 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000000000001f3        0x6 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x00000000000001f3                bmp_n_d_mos
  .progmem.data.bmp_p_e_mos
-                0x00000000000001f9        0xa ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000000000001f9        0xa ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x00000000000001f9                bmp_p_e_mos
  .progmem.data.bmp_p_d_igbt
-                0x0000000000000203       0x24 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000000203       0x24 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000000203                bmp_p_d_igbt
  .progmem.data.bmp_n_d_igbt
-                0x0000000000000227        0xc ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000000227        0xc ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000000227                bmp_n_d_igbt
  .progmem.data.bmp_p_e_igbt
-                0x0000000000000233       0x18 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000000233       0x18 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000000233                bmp_p_e_igbt
  .progmem.data.PinRLRHADCtab
-                0x000000000000024b        0x6 ../Obj/mega328_T4_v2_st7565/main.o
+                0x000000000000024b        0x6 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x000000000000024b                PinRLRHADCtab
  .progmem.data.HelpCalibration_str
-                0x0000000000000251       0x10 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000000251       0x10 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000000251                HelpCalibration_str
  .progmem.data.RHtab
-                0x0000000000000261       0x12 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000000261       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000000261                RHtab
  .progmem.data.LogTab
-                0x0000000000000273       0x66 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000000273       0x66 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000000273                LogTab
  .progmem.data.bigfont
-                0x00000000000002d9      0x2a0 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000000000002d9      0x2a0 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x00000000000002d9                bigfont
  .progmem.data.nfont
-                0x0000000000000579      0x578 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000000579      0x578 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000000579                nfont
  .progmem.data.sfont
-                0x0000000000000af1       0x90 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000000af1       0x90 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000000af1                sfont
                 0x0000000000000b82                . = ALIGN (0x2)
  *fill*         0x0000000000000b81        0x1 
@@ -891,9 +891,9 @@ END GROUP
                 0x0000000000000ba6                __vector_14
                 0x0000000000000ba6                __vector_18
                 0x0000000000000ba6                __vector_20
- .text          0x0000000000000ba8       0x78 ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
+ .text          0x0000000000000ba8       0x78 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd_hw_4_bit.o
                 0x0000000000000ba8                _lcd_hw_write
- .text          0x0000000000000c20       0x36 ../Obj/mega328_T4_v2_st7565/i2lcd.o
+ .text          0x0000000000000c20       0x36 ../Obj/mega328_T4_v2_st7565_Li-Po/i2lcd.o
                 0x0000000000000c20                i2lcd
                 0x0000000000000c36                u2lcd
                 0x0000000000000c44                i2lcd_space
@@ -901,13 +901,13 @@ END GROUP
                 0x0000000000000c4a                lcd_space
                 0x0000000000000c4e                lcd_minus
                 0x0000000000000c52                lcd_equal
- .text          0x0000000000000c56       0x8e ../Obj/mega328_T4_v2_st7565/PinLayout.o
+ .text          0x0000000000000c56       0x8e ../Obj/mega328_T4_v2_st7565_Li-Po/PinLayout.o
                 0x0000000000000c56                PinLayout
                 0x0000000000000ca4                PinLayoutLine
                 0x0000000000000cd0                Rnum2pins
- .text          0x0000000000000ce4       0x4a ../Obj/mega328_T4_v2_st7565/RvalOut.o
+ .text          0x0000000000000ce4       0x4a ../Obj/mega328_T4_v2_st7565_Li-Po/RvalOut.o
                 0x0000000000000ce4                RvalOut
- .text          0x0000000000000d2e       0xbe ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
+ .text          0x0000000000000d2e       0xbe ../Obj/mega328_T4_v2_st7565_Li-Po/UfAusgabe.o
                 0x0000000000000d2e                mVAusgabe
                 0x0000000000000d4a                UfAusgabe
                 0x0000000000000d76                SerienDiodenAusgabe
@@ -916,7 +916,7 @@ END GROUP
                 0x0000000000000dbc                DiodeSymbol_ACpin
                 0x0000000000000dce                DiodeSymbol_CpinApin
                 0x0000000000000dda                DiodeSymbol_CApin
- .text          0x0000000000000dec       0x4a ../Obj/mega328_T4_v2_st7565/wait1000ms.o
+ .text          0x0000000000000dec       0x4a ../Obj/mega328_T4_v2_st7565_Li-Po/wait1000ms.o
                 0x0000000000000dec                wait5s
                 0x0000000000000dee                wait4s
                 0x0000000000000df0                wait3s
@@ -953,10 +953,10 @@ END GROUP
                 0x0000000000000e2e                wait3us
                 0x0000000000000e30                wait2us
                 0x0000000000000e32                wait1us
- .text          0x0000000000000e36       0x5a ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
+ .text          0x0000000000000e36       0x5a ../Obj/mega328_T4_v2_st7565_Li-Po/sleep_5ms.o
                 0x0000000000000e36                sleep_10ms
                 0x0000000000000e38                sleep_5ms
- .text          0x0000000000000e90       0xfa ../Obj/mega328_T4_v2_st7565/ReadADC.o
+ .text          0x0000000000000e90       0xfa ../Obj/mega328_T4_v2_st7565_Li-Po/ReadADC.o
                 0x0000000000000e90                W20msReadADC
                 0x0000000000000e98                W10msReadADC
                 0x0000000000000e9e                W5msReadADC
@@ -964,280 +964,280 @@ END GROUP
                 0x0000000000000f62                abs_diff
                 0x0000000000000f6e                vcc_diff
                 0x0000000000000f78                unsigned_diff
- .text          0x0000000000000f8a       0xa6 ../Obj/mega328_T4_v2_st7565/RefVoltage.o
+ .text          0x0000000000000f8a       0xa6 ../Obj/mega328_T4_v2_st7565_Li-Po/RefVoltage.o
                 0x0000000000000f8a                RefVoltage
- .text          0x0000000000001030       0x7e ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
+ .text          0x0000000000001030       0x7e ../Obj/mega328_T4_v2_st7565_Li-Po/GetRLmultip.o
                 0x0000000000001030                GetRLmultip
- .text          0x00000000000010ae       0x48 ../Obj/mega328_T4_v2_st7565/get_log.o
+ .text          0x00000000000010ae       0x48 ../Obj/mega328_T4_v2_st7565_Li-Po/get_log.o
                 0x00000000000010ae                get_log
- .text          0x00000000000010f6      0x34a ../Obj/mega328_T4_v2_st7565/GetESR.o
+ .text          0x00000000000010f6      0x34a ../Obj/mega328_T4_v2_st7565_Li-Po/GetESR.o
                 0x00000000000010f6                GetESR
                 0x0000000000001440                . = ALIGN (0x2)
  *(.text.*)
  .text.lcd_spaces
-                0x0000000000001440       0x12 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000000000001440       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x0000000000001440                lcd_spaces
  .text.lcd_set_cursor
-                0x0000000000001452       0x1a ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000000000001452       0x1a ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x0000000000001452                lcd_set_cursor
  .text.lcd_line1
-                0x000000000000146c        0xc ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000000000000146c        0xc ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x000000000000146c                lcd_line1
  .text.lcd_line2
-                0x0000000000001478        0xe ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000000000001478        0xe ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x0000000000001478                lcd_line2
  .text.lcd_line3
-                0x0000000000001486        0xe ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000000000001486        0xe ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x0000000000001486                lcd_line3
  .text.lcd_line4
-                0x0000000000001494        0xe ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000000000001494        0xe ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x0000000000001494                lcd_line4
  .text.lcd_save_position
-                0x00000000000014a2       0x12 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00000000000014a2       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x00000000000014a2                lcd_save_position
  .text.lcd_restore_position
-                0x00000000000014b4        0xe ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00000000000014b4        0xe ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x00000000000014b4                lcd_restore_position
  .text.lcd_command
-                0x00000000000014c2        0x8 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00000000000014c2        0x8 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x00000000000014c2                lcd_command
  .text.lcd_powersave
-                0x00000000000014ca        0xa ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00000000000014ca        0xa ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x00000000000014ca                lcd_powersave
  .text.lcd_clear
-                0x00000000000014d4       0x2e ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00000000000014d4       0x2e ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x00000000000014d4                lcd_clear
  .text.lcd_init
-                0x0000000000001502       0x6a ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000000000001502       0x6a ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x0000000000001502                lcd_init
  .text.lcd_clear_line
-                0x000000000000156c        0xc ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000000000000156c        0xc ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x000000000000156c                lcd_clear_line
  .text.lcd_next_line
-                0x0000000000001578       0x34 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000000000001578       0x34 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x0000000000001578                lcd_next_line
  .text.lcd_next_line_wait
-                0x00000000000015ac        0x6 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00000000000015ac        0x6 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x00000000000015ac                lcd_next_line_wait
  .text.lcd_clear_line1
-                0x00000000000015b2        0x8 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00000000000015b2        0x8 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x00000000000015b2                lcd_clear_line1
  .text.lcd_clear_line2
-                0x00000000000015ba        0x8 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00000000000015ba        0x8 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x00000000000015ba                lcd_clear_line2
  .text.reverse_byte
-                0x00000000000015c2       0x20 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00000000000015c2       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x00000000000015c2                reverse_byte
  .text.lcd_set_pixels
-                0x00000000000015e2       0xf4 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00000000000015e2       0xf4 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x00000000000015e2                lcd_set_pixels
  .text.lcd_big_icon
-                0x00000000000016d6       0x58 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00000000000016d6       0x58 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x00000000000016d6                lcd_big_icon
  .text.lcd_update_icon_opt
-                0x000000000000172e       0x2c ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000000000000172e       0x2c ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x000000000000172e                lcd_update_icon_opt
  .text.lcd_update_icon
-                0x000000000000175a        0x6 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000000000000175a        0x6 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x000000000000175a                lcd_update_icon
  .text.lcd_data
-                0x0000000000001760       0x98 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000000000001760       0x98 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x0000000000001760                lcd_data
  .text.lcd_testpin
-                0x00000000000017f8        0x6 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00000000000017f8        0x6 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x00000000000017f8                lcd_testpin
  .text.lcd_string
-                0x00000000000017fe       0x16 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00000000000017fe       0x16 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x00000000000017fe                lcd_string
  .text.lcd_pgm_string
-                0x0000000000001814       0x1a ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000000000001814       0x1a ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x0000000000001814                lcd_pgm_string
  .text.lcd_fix_string
-                0x000000000000182e       0x1c ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000000000000182e       0x1c ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x000000000000182e                lcd_fix_string
  .text.lcd_pgm_bitmap
-                0x000000000000184a       0x16 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000000000000184a       0x16 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x000000000000184a                lcd_pgm_bitmap
  .text.lcd_show_Cg
-                0x0000000000001860       0x30 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000000000001860       0x30 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x0000000000001860                lcd_show_Cg
  .text.lcd_show_rds
-                0x0000000000001890       0x28 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000000000001890       0x28 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x0000000000001890                lcd_show_rds
  .text.DisplayValue
-                0x00000000000018b8      0x1d2 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+                0x00000000000018b8      0x1d2 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
                 0x00000000000018b8                DisplayValue
  .text.DisplayValue16
-                0x0000000000001a8a       0x16 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+                0x0000000000001a8a       0x16 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
                 0x0000000000001a8a                DisplayValue16
  .text.Display_mV
-                0x0000000000001aa0       0x14 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+                0x0000000000001aa0       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
                 0x0000000000001aa0                Display_mV
  .text.Display_Hz
-                0x0000000000001ab4       0x14 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+                0x0000000000001ab4       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
                 0x0000000000001ab4                Display_Hz
  .text.lcd_draw_pin
-                0x0000000000001ac8       0x24 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+                0x0000000000001ac8       0x24 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
                 0x0000000000001ac8                lcd_draw_pin
  .text.lcd_draw_trans_pins
-                0x0000000000001aec       0x3e ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+                0x0000000000001aec       0x3e ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
                 0x0000000000001aec                lcd_draw_trans_pins
  .text.check_rotary
-                0x0000000000001b2a       0x92 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+                0x0000000000001b2a       0x92 ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
                 0x0000000000001b2a                check_rotary
  .text.wait_for_key_ms
-                0x0000000000001bbc       0xcc ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+                0x0000000000001bbc       0xcc ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
                 0x0000000000001bbc                wait_for_key_ms
  .text.wait_for_key_5s_line2
-                0x0000000000001c88       0x52 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+                0x0000000000001c88       0x52 ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
                 0x0000000000001c88                wait_for_key_5s_line2
  .text.__vector_7
-                0x0000000000001cda        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000001cda        0x2 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000001cda                __vector_7
  .text.__vector_21
-                0x0000000000001cdc        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000001cdc        0x2 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000001cdc                __vector_21
  .text.search_vak_diode
-                0x0000000000001cde       0x48 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000001cde       0x48 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000001cde                search_vak_diode
  .text.init_parts
-                0x0000000000001d26       0x46 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000001d26       0x46 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000001d26                init_parts
  .text.switch_tester_off
-                0x0000000000001d6c        0xe ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000001d6c        0xe ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000001d6c                switch_tester_off
  .text.ShortedProbes
-                0x0000000000001d7a       0x7a ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000001d7a       0x7a ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000001d7a                ShortedProbes
  .text.AllProbesShorted
-                0x0000000000001df4       0x1e ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000001df4       0x1e ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000001df4                AllProbesShorted
  .text.AutoCheck
-                0x0000000000001e12      0x74e ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000001e12      0x74e ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000001e12                AutoCheck
  .text.mark_as_uncalibrated
-                0x0000000000002560       0x24 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000002560       0x24 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000002560                mark_as_uncalibrated
- .text.GetIr    0x0000000000002584       0x8e ../Obj/mega328_T4_v2_st7565/main.o
+ .text.GetIr    0x0000000000002584       0x8e ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000002584                GetIr
  .text.startup.main
-                0x0000000000002612      0xac0 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000000000002612      0xac0 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000002612                main
  .text.Battery_check
-                0x00000000000030d2       0x9a ../Obj/mega328_T4_v2_st7565/Battery_check.o
+                0x00000000000030d2       0x9a ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
                 0x00000000000030d2                Battery_check
  .text.expand_FET_quadratic
-                0x000000000000316c       0x4e ../Obj/mega328_T4_v2_st7565/CheckPins.o
+                0x000000000000316c       0x4e ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
                 0x000000000000316c                expand_FET_quadratic
  .text.CheckPins
-                0x00000000000031ba      0xdf6 ../Obj/mega328_T4_v2_st7565/CheckPins.o
+                0x00000000000031ba      0xdf6 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
                 0x00000000000031ba                CheckPins
  .text.GetResistance
-                0x0000000000003fb0      0x424 ../Obj/mega328_T4_v2_st7565/GetResistance.o
+                0x0000000000003fb0      0x424 ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
                 0x0000000000003fb0                GetResistance
  .text.ChargePin10ms
-                0x00000000000043d4       0x2e ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+                0x00000000000043d4       0x2e ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
                 0x00000000000043d4                ChargePin10ms
  .text.EntladePins
-                0x0000000000004402      0x12c ../Obj/mega328_T4_v2_st7565/EntladePins.o
+                0x0000000000004402      0x12c ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
                 0x0000000000004402                EntladePins
  .text.Scale_C_with_vcc
-                0x000000000000452e       0x80 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+                0x000000000000452e       0x80 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
                 0x000000000000452e                Scale_C_with_vcc
  .text.ReadCapacity
-                0x00000000000045ae      0x5a0 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+                0x00000000000045ae      0x5a0 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
                 0x00000000000045ae                ReadCapacity
  .text.__vector_13
-                0x0000000000004b4e       0x4c ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+                0x0000000000004b4e       0x4c ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
                 0x0000000000004b4e                __vector_13
  .text.__vector_10
-                0x0000000000004b9a       0x44 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+                0x0000000000004b9a       0x44 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
                 0x0000000000004b9a                __vector_10
  .text.Calibrate_UR
-                0x0000000000004bde      0x198 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+                0x0000000000004bde      0x198 ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
                 0x0000000000004bde                Calibrate_UR
  .text.show_resis
-                0x0000000000004d76      0x17a ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x0000000000004d76      0x17a ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
                 0x0000000000004d76                show_resis
  .text.show_cap
-                0x0000000000004ef0       0xee ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x0000000000004ef0       0xee ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
                 0x0000000000004ef0                show_cap
  .text.Bat_update
-                0x0000000000004fde        0xe ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x0000000000004fde        0xe ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
                 0x0000000000004fde                Bat_update
  .text.Pwr_mode_check
-                0x0000000000004fec       0x14 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x0000000000004fec       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
                 0x0000000000004fec                Pwr_mode_check
  .text.show_Resis13
-                0x0000000000005000       0x92 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x0000000000005000       0x92 ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
                 0x0000000000005000                show_Resis13
  .text.show_Cap13
-                0x0000000000005092       0xfa ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x0000000000005092       0xfa ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
                 0x0000000000005092                show_Cap13
  .text.ReadInductance
-                0x000000000000518c      0x462 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+                0x000000000000518c      0x462 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
                 0x000000000000518c                ReadInductance
  .text.GetVloss
-                0x00000000000055ee      0x15a ../Obj/mega328_T4_v2_st7565/GetVloss.o
+                0x00000000000055ee      0x15a ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
                 0x00000000000055ee                GetVloss
  .text.message2line
-                0x0000000000005748       0x7c ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x0000000000005748       0x7c ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
                 0x0000000000005748                message2line
  .text.show_C_ESR
-                0x00000000000057c4       0xc6 ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x00000000000057c4       0xc6 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
                 0x00000000000057c4                show_C_ESR
  .text.make_frequency
-                0x000000000000588a      0x344 ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x000000000000588a      0x344 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
                 0x000000000000588a                make_frequency
  .text.do_10bit_PWM
-                0x0000000000005bce      0x13a ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x0000000000005bce      0x13a ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
                 0x0000000000005bce                do_10bit_PWM
  .text.set_contrast
-                0x0000000000005d08       0x90 ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x0000000000005d08       0x90 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
                 0x0000000000005d08                set_contrast
  .text.set_big_cap_corr
-                0x0000000000005d98       0xb4 ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x0000000000005d98       0xb4 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
                 0x0000000000005d98                set_big_cap_corr
- .text.do_menu  0x0000000000005e4c       0x5a ../Obj/mega328_T4_v2_st7565/function_menu.o
+ .text.do_menu  0x0000000000005e4c       0x5a ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
                 0x0000000000005e4c                do_menu
  .text.function_menu
-                0x0000000000005ea6       0xd6 ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x0000000000005ea6       0xd6 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
                 0x0000000000005ea6                function_menu
  .text.message_key_released
-                0x0000000000005f7c       0x28 ../Obj/mega328_T4_v2_st7565/message_key_released.o
+                0x0000000000005f7c       0x28 ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
                 0x0000000000005f7c                message_key_released
  .text.__vector_16
-                0x0000000000005fa4       0x4c ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+                0x0000000000005fa4       0x4c ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
                 0x0000000000005fa4                __vector_16
  .text.__vector_11
-                0x0000000000005ff0       0x1c ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+                0x0000000000005ff0       0x1c ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
                 0x0000000000005ff0                __vector_11
  .text.__vector_12
-                0x000000000000600c       0x1c ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+                0x000000000000600c       0x1c ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
                 0x000000000000600c                __vector_12
  .text.__vector_5
-                0x0000000000006028       0x68 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+                0x0000000000006028       0x68 ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
                 0x0000000000006028                __vector_5
  .text.ReadBigCap
-                0x0000000000006090      0x25e ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+                0x0000000000006090      0x25e ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
                 0x0000000000006090                ReadBigCap
  .text.ShowData
-                0x00000000000062ee      0x22a ../Obj/mega328_T4_v2_st7565/ShowData.o
+                0x00000000000062ee      0x22a ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
                 0x00000000000062ee                ShowData
- .text.mylog    0x0000000000006518       0xb4 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .text.mylog    0x0000000000006518       0xb4 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
  .text.sampling_cap
-                0x00000000000065cc      0x1ba ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+                0x00000000000065cc      0x1ba ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
                 0x00000000000065cc                sampling_cap
  .text.sampling_cap_calibrate
-                0x0000000000006786       0xbe ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+                0x0000000000006786       0xbe ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
                 0x0000000000006786                sampling_cap_calibrate
  .text.peaksearch
-                0x0000000000006844      0x23c ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+                0x0000000000006844      0x23c ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
  .text.sampling_lc
-                0x0000000000006a80      0x300 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+                0x0000000000006a80      0x300 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
                 0x0000000000006a80                sampling_lc
  .text.sampling_lc_calibrate
-                0x0000000000006d80       0x8c ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+                0x0000000000006d80       0x8c ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
                 0x0000000000006d80                sampling_lc_calibrate
  .text.libgcc.mul
                 0x0000000000006e0c       0x1e /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
@@ -1357,14 +1357,14 @@ END GROUP
  *(.bss)
  *(.bss*)
  *(COMMON)
- COMMON         0x0000000000800100        0x6 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ COMMON         0x0000000000800100        0x6 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                 0x0000000000800100                icon_yy
                 0x0000000000800101                last_text_column
                 0x0000000000800102                last_text_line
                 0x0000000000800103                _page
                 0x0000000000800104                _xpos
                 0x0000000000800105                icon_xx
- COMMON         0x0000000000800106       0xb4 ../Obj/mega328_T4_v2_st7565/main.o
+ COMMON         0x0000000000800106       0xb4 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000800106                diode_sequence
                 0x0000000000800107                ext_freq
                 0x000000000080010b                display_time
@@ -1412,7 +1412,7 @@ END GROUP
                 0x00000000008001a9                inductor_lx
                 0x00000000008001ad                lcd_text_line
                 0x00000000008001ae                ResistorVal
- COMMON         0x00000000008001ba        0xc ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+ COMMON         0x00000000008001ba        0xc ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
                 0x00000000008001ba                lc_fx
                 0x00000000008001be                lc_cpartmp
                 0x00000000008001c0                lc_qx
@@ -1430,7 +1430,7 @@ END GROUP
 
 .eeprom         0x0000000000810000      0x348
  *(.eeprom*)
- .eeprom        0x0000000000810000      0x33b ../Obj/mega328_T4_v2_st7565/main.o
+ .eeprom        0x0000000000810000      0x33b ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
                 0x0000000000810006                cap_for_l_meas_str
                 0x0000000000810016                REF_R_str
                 0x000000000081001d                REF_C_str
@@ -1531,9 +1531,9 @@ END GROUP
                 0x0000000000810331                c_zero_tab
                 0x0000000000810338                ref_offset
                 0x000000000081033a                RefDiff
- .eeprom        0x000000000081033b        0xb ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+ .eeprom        0x000000000081033b        0xb ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
                 0x000000000081033b                RL_METER_str
- .eeprom        0x0000000000810346        0x2 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+ .eeprom        0x0000000000810346        0x2 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
                 0x0000000000810346                lc_cpar_ee
                 0x0000000000810348                __eeprom_end = .
 
@@ -1572,29 +1572,29 @@ END GROUP
 
 .comment        0x0000000000000000       0x11
  *(.comment)
- .comment       0x0000000000000000       0x11 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .comment       0x0000000000000000       0x11 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
                                          0x12 (size before relaxing)
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/main.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/Battery_check.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/CheckPins.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/GetResistance.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/EntladePins.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/GetVloss.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/function_menu.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/message_key_released.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/ShowData.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
- .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
 
 .note.gnu.avr.deviceinfo
                 0x0000000000000000       0x40
@@ -1619,293 +1619,293 @@ END GROUP
 .debug_aranges  0x0000000000000000      0x698
  *(.debug_aranges)
  .debug_aranges
-                0x0000000000000000       0x20 ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
+                0x0000000000000000       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd_hw_4_bit.o
  .debug_aranges
-                0x0000000000000020      0x118 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000000000000020      0x118 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
  .debug_aranges
-                0x0000000000000138       0x20 ../Obj/mega328_T4_v2_st7565/i2lcd.o
+                0x0000000000000138       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/i2lcd.o
  .debug_aranges
-                0x0000000000000158       0x20 ../Obj/mega328_T4_v2_st7565/PinLayout.o
+                0x0000000000000158       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/PinLayout.o
  .debug_aranges
-                0x0000000000000178       0x20 ../Obj/mega328_T4_v2_st7565/RvalOut.o
+                0x0000000000000178       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/RvalOut.o
  .debug_aranges
-                0x0000000000000198       0x20 ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
+                0x0000000000000198       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/UfAusgabe.o
  .debug_aranges
-                0x00000000000001b8       0x38 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+                0x00000000000001b8       0x38 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
  .debug_aranges
-                0x00000000000001f0       0x28 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+                0x00000000000001f0       0x28 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
  .debug_aranges
-                0x0000000000000218       0x20 ../Obj/mega328_T4_v2_st7565/wait1000ms.o
+                0x0000000000000218       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/wait1000ms.o
  .debug_aranges
-                0x0000000000000238       0x20 ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
+                0x0000000000000238       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/sleep_5ms.o
  .debug_aranges
-                0x0000000000000258       0x20 ../Obj/mega328_T4_v2_st7565/ReadADC.o
+                0x0000000000000258       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadADC.o
  .debug_aranges
-                0x0000000000000278       0x30 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+                0x0000000000000278       0x30 ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
  .debug_aranges
-                0x00000000000002a8       0x20 ../Obj/mega328_T4_v2_st7565/RefVoltage.o
+                0x00000000000002a8       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/RefVoltage.o
  .debug_aranges
-                0x00000000000002c8       0x70 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000000000002c8       0x70 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
  .debug_aranges
-                0x0000000000000338       0x20 ../Obj/mega328_T4_v2_st7565/Battery_check.o
+                0x0000000000000338       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
  .debug_aranges
-                0x0000000000000358       0x28 ../Obj/mega328_T4_v2_st7565/CheckPins.o
+                0x0000000000000358       0x28 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
  .debug_aranges
-                0x0000000000000380       0x20 ../Obj/mega328_T4_v2_st7565/GetResistance.o
+                0x0000000000000380       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
  .debug_aranges
-                0x00000000000003a0       0x20 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+                0x00000000000003a0       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
  .debug_aranges
-                0x00000000000003c0       0x20 ../Obj/mega328_T4_v2_st7565/EntladePins.o
+                0x00000000000003c0       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
  .debug_aranges
-                0x00000000000003e0       0x38 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+                0x00000000000003e0       0x38 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
  .debug_aranges
-                0x0000000000000418       0x20 ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
+                0x0000000000000418       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/GetRLmultip.o
  .debug_aranges
-                0x0000000000000438       0x20 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+                0x0000000000000438       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
  .debug_aranges
-                0x0000000000000458       0x48 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x0000000000000458       0x48 ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
  .debug_aranges
-                0x00000000000004a0       0x20 ../Obj/mega328_T4_v2_st7565/get_log.o
+                0x00000000000004a0       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/get_log.o
  .debug_aranges
-                0x00000000000004c0       0x20 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+                0x00000000000004c0       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
  .debug_aranges
-                0x00000000000004e0       0x20 ../Obj/mega328_T4_v2_st7565/GetESR.o
+                0x00000000000004e0       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/GetESR.o
  .debug_aranges
-                0x0000000000000500       0x20 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+                0x0000000000000500       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
  .debug_aranges
-                0x0000000000000520       0x58 ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x0000000000000520       0x58 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
  .debug_aranges
-                0x0000000000000578       0x20 ../Obj/mega328_T4_v2_st7565/message_key_released.o
+                0x0000000000000578       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
  .debug_aranges
-                0x0000000000000598       0x40 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+                0x0000000000000598       0x40 ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
  .debug_aranges
-                0x00000000000005d8       0x20 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+                0x00000000000005d8       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
  .debug_aranges
-                0x00000000000005f8       0x20 ../Obj/mega328_T4_v2_st7565/ShowData.o
+                0x00000000000005f8       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
  .debug_aranges
-                0x0000000000000618       0x20 ../Obj/mega328_T4_v2_st7565/samplingADC.o
+                0x0000000000000618       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/samplingADC.o
  .debug_aranges
-                0x0000000000000638       0x30 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+                0x0000000000000638       0x30 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
  .debug_aranges
-                0x0000000000000668       0x30 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+                0x0000000000000668       0x30 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x0000000000000000     0xc010
+.debug_info     0x0000000000000000     0xc05e
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x0000000000000000      0x5f4 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328p.o
- .debug_info    0x00000000000005f4       0xac ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
- .debug_info    0x00000000000006a0     0x10c7 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
- .debug_info    0x0000000000001767       0xa5 ../Obj/mega328_T4_v2_st7565/i2lcd.o
- .debug_info    0x000000000000180c       0xa9 ../Obj/mega328_T4_v2_st7565/PinLayout.o
- .debug_info    0x00000000000018b5       0xa7 ../Obj/mega328_T4_v2_st7565/RvalOut.o
- .debug_info    0x000000000000195c       0xa9 ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
- .debug_info    0x0000000000001a05      0x483 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
- .debug_info    0x0000000000001e88      0x2d2 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
- .debug_info    0x000000000000215a       0xaa ../Obj/mega328_T4_v2_st7565/wait1000ms.o
- .debug_info    0x0000000000002204       0xa9 ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
- .debug_info    0x00000000000022ad       0xa7 ../Obj/mega328_T4_v2_st7565/ReadADC.o
- .debug_info    0x0000000000002354      0x31f ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
- .debug_info    0x0000000000002673       0xaa ../Obj/mega328_T4_v2_st7565/RefVoltage.o
- .debug_info    0x000000000000271d     0x34f7 ../Obj/mega328_T4_v2_st7565/main.o
- .debug_info    0x0000000000005c14      0x245 ../Obj/mega328_T4_v2_st7565/Battery_check.o
- .debug_info    0x0000000000005e59     0x11c3 ../Obj/mega328_T4_v2_st7565/CheckPins.o
- .debug_info    0x000000000000701c      0x60e ../Obj/mega328_T4_v2_st7565/GetResistance.o
- .debug_info    0x000000000000762a       0xc3 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
- .debug_info    0x00000000000076ed      0x1a4 ../Obj/mega328_T4_v2_st7565/EntladePins.o
- .debug_info    0x0000000000007891      0x5e4 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
- .debug_info    0x0000000000007e75       0xab ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
- .debug_info    0x0000000000007f20      0x2b5 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
- .debug_info    0x00000000000081d5      0xb57 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
- .debug_info    0x0000000000008d2c       0xa7 ../Obj/mega328_T4_v2_st7565/get_log.o
- .debug_info    0x0000000000008dd3      0x479 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
- .debug_info    0x000000000000924c       0xa6 ../Obj/mega328_T4_v2_st7565/GetESR.o
- .debug_info    0x00000000000092f2      0x31b ../Obj/mega328_T4_v2_st7565/GetVloss.o
- .debug_info    0x000000000000960d      0xc68 ../Obj/mega328_T4_v2_st7565/function_menu.o
- .debug_info    0x000000000000a275      0x120 ../Obj/mega328_T4_v2_st7565/message_key_released.o
- .debug_info    0x000000000000a395      0x410 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
- .debug_info    0x000000000000a7a5      0x39e ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
- .debug_info    0x000000000000ab43      0x6e6 ../Obj/mega328_T4_v2_st7565/ShowData.o
- .debug_info    0x000000000000b229       0xab ../Obj/mega328_T4_v2_st7565/samplingADC.o
- .debug_info    0x000000000000b2d4      0x592 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
- .debug_info    0x000000000000b866      0x7aa ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+ .debug_info    0x00000000000005f4       0xb2 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd_hw_4_bit.o
+ .debug_info    0x00000000000006a6     0x10c7 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+ .debug_info    0x000000000000176d       0xab ../Obj/mega328_T4_v2_st7565_Li-Po/i2lcd.o
+ .debug_info    0x0000000000001818       0xaf ../Obj/mega328_T4_v2_st7565_Li-Po/PinLayout.o
+ .debug_info    0x00000000000018c7       0xad ../Obj/mega328_T4_v2_st7565_Li-Po/RvalOut.o
+ .debug_info    0x0000000000001974       0xaf ../Obj/mega328_T4_v2_st7565_Li-Po/UfAusgabe.o
+ .debug_info    0x0000000000001a23      0x483 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
+ .debug_info    0x0000000000001ea6      0x2d2 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
+ .debug_info    0x0000000000002178       0xb0 ../Obj/mega328_T4_v2_st7565_Li-Po/wait1000ms.o
+ .debug_info    0x0000000000002228       0xaf ../Obj/mega328_T4_v2_st7565_Li-Po/sleep_5ms.o
+ .debug_info    0x00000000000022d7       0xad ../Obj/mega328_T4_v2_st7565_Li-Po/ReadADC.o
+ .debug_info    0x0000000000002384      0x31f ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
+ .debug_info    0x00000000000026a3       0xb0 ../Obj/mega328_T4_v2_st7565_Li-Po/RefVoltage.o
+ .debug_info    0x0000000000002753     0x34f7 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ .debug_info    0x0000000000005c4a      0x245 ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
+ .debug_info    0x0000000000005e8f     0x11c3 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
+ .debug_info    0x0000000000007052      0x60e ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
+ .debug_info    0x0000000000007660       0xc3 ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
+ .debug_info    0x0000000000007723      0x1a4 ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
+ .debug_info    0x00000000000078c7      0x5e4 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
+ .debug_info    0x0000000000007eab       0xb1 ../Obj/mega328_T4_v2_st7565_Li-Po/GetRLmultip.o
+ .debug_info    0x0000000000007f5c      0x2b5 ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
+ .debug_info    0x0000000000008211      0xb57 ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
+ .debug_info    0x0000000000008d68       0xad ../Obj/mega328_T4_v2_st7565_Li-Po/get_log.o
+ .debug_info    0x0000000000008e15      0x479 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
+ .debug_info    0x000000000000928e       0xac ../Obj/mega328_T4_v2_st7565_Li-Po/GetESR.o
+ .debug_info    0x000000000000933a      0x31b ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
+ .debug_info    0x0000000000009655      0xc68 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
+ .debug_info    0x000000000000a2bd      0x120 ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
+ .debug_info    0x000000000000a3dd      0x410 ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
+ .debug_info    0x000000000000a7ed      0x39e ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
+ .debug_info    0x000000000000ab8b      0x6e6 ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
+ .debug_info    0x000000000000b271       0xb1 ../Obj/mega328_T4_v2_st7565_Li-Po/samplingADC.o
+ .debug_info    0x000000000000b322      0x592 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
+ .debug_info    0x000000000000b8b4      0x7aa ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
 
 .debug_abbrev   0x0000000000000000     0x2726
  *(.debug_abbrev)
  .debug_abbrev  0x0000000000000000      0x5a2 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328p.o
- .debug_abbrev  0x00000000000005a2       0x14 ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
- .debug_abbrev  0x00000000000005b6      0x281 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
- .debug_abbrev  0x0000000000000837       0x14 ../Obj/mega328_T4_v2_st7565/i2lcd.o
- .debug_abbrev  0x000000000000084b       0x14 ../Obj/mega328_T4_v2_st7565/PinLayout.o
- .debug_abbrev  0x000000000000085f       0x14 ../Obj/mega328_T4_v2_st7565/RvalOut.o
- .debug_abbrev  0x0000000000000873       0x14 ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
- .debug_abbrev  0x0000000000000887      0x1a5 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
- .debug_abbrev  0x0000000000000a2c      0x14d ../Obj/mega328_T4_v2_st7565/lcd-draw.o
- .debug_abbrev  0x0000000000000b79       0x14 ../Obj/mega328_T4_v2_st7565/wait1000ms.o
- .debug_abbrev  0x0000000000000b8d       0x14 ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
- .debug_abbrev  0x0000000000000ba1       0x14 ../Obj/mega328_T4_v2_st7565/ReadADC.o
- .debug_abbrev  0x0000000000000bb5      0x15f ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
- .debug_abbrev  0x0000000000000d14       0x14 ../Obj/mega328_T4_v2_st7565/RefVoltage.o
- .debug_abbrev  0x0000000000000d28      0x33d ../Obj/mega328_T4_v2_st7565/main.o
- .debug_abbrev  0x0000000000001065       0xcf ../Obj/mega328_T4_v2_st7565/Battery_check.o
- .debug_abbrev  0x0000000000001134      0x1ae ../Obj/mega328_T4_v2_st7565/CheckPins.o
- .debug_abbrev  0x00000000000012e2      0x160 ../Obj/mega328_T4_v2_st7565/GetResistance.o
- .debug_abbrev  0x0000000000001442       0x7f ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
- .debug_abbrev  0x00000000000014c1       0xbb ../Obj/mega328_T4_v2_st7565/EntladePins.o
- .debug_abbrev  0x000000000000157c      0x194 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
- .debug_abbrev  0x0000000000001710       0x14 ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
- .debug_abbrev  0x0000000000001724       0xe3 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
- .debug_abbrev  0x0000000000001807      0x1f4 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
- .debug_abbrev  0x00000000000019fb       0x14 ../Obj/mega328_T4_v2_st7565/get_log.o
- .debug_abbrev  0x0000000000001a0f      0x160 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
- .debug_abbrev  0x0000000000001b6f       0x14 ../Obj/mega328_T4_v2_st7565/GetESR.o
- .debug_abbrev  0x0000000000001b83      0x140 ../Obj/mega328_T4_v2_st7565/GetVloss.o
- .debug_abbrev  0x0000000000001cc3      0x20f ../Obj/mega328_T4_v2_st7565/function_menu.o
- .debug_abbrev  0x0000000000001ed2       0xb7 ../Obj/mega328_T4_v2_st7565/message_key_released.o
- .debug_abbrev  0x0000000000001f89      0x16f ../Obj/mega328_T4_v2_st7565/GetFrequency.o
- .debug_abbrev  0x00000000000020f8      0x17c ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
- .debug_abbrev  0x0000000000002274      0x128 ../Obj/mega328_T4_v2_st7565/ShowData.o
- .debug_abbrev  0x000000000000239c       0x14 ../Obj/mega328_T4_v2_st7565/samplingADC.o
- .debug_abbrev  0x00000000000023b0      0x189 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
- .debug_abbrev  0x0000000000002539      0x1ed ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+ .debug_abbrev  0x00000000000005a2       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd_hw_4_bit.o
+ .debug_abbrev  0x00000000000005b6      0x281 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+ .debug_abbrev  0x0000000000000837       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/i2lcd.o
+ .debug_abbrev  0x000000000000084b       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/PinLayout.o
+ .debug_abbrev  0x000000000000085f       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/RvalOut.o
+ .debug_abbrev  0x0000000000000873       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/UfAusgabe.o
+ .debug_abbrev  0x0000000000000887      0x1a5 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
+ .debug_abbrev  0x0000000000000a2c      0x14d ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
+ .debug_abbrev  0x0000000000000b79       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/wait1000ms.o
+ .debug_abbrev  0x0000000000000b8d       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/sleep_5ms.o
+ .debug_abbrev  0x0000000000000ba1       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadADC.o
+ .debug_abbrev  0x0000000000000bb5      0x15f ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
+ .debug_abbrev  0x0000000000000d14       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/RefVoltage.o
+ .debug_abbrev  0x0000000000000d28      0x33d ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ .debug_abbrev  0x0000000000001065       0xcf ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
+ .debug_abbrev  0x0000000000001134      0x1ae ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
+ .debug_abbrev  0x00000000000012e2      0x160 ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
+ .debug_abbrev  0x0000000000001442       0x7f ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
+ .debug_abbrev  0x00000000000014c1       0xbb ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
+ .debug_abbrev  0x000000000000157c      0x194 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
+ .debug_abbrev  0x0000000000001710       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/GetRLmultip.o
+ .debug_abbrev  0x0000000000001724       0xe3 ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
+ .debug_abbrev  0x0000000000001807      0x1f4 ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
+ .debug_abbrev  0x00000000000019fb       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/get_log.o
+ .debug_abbrev  0x0000000000001a0f      0x160 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
+ .debug_abbrev  0x0000000000001b6f       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/GetESR.o
+ .debug_abbrev  0x0000000000001b83      0x140 ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
+ .debug_abbrev  0x0000000000001cc3      0x20f ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
+ .debug_abbrev  0x0000000000001ed2       0xb7 ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
+ .debug_abbrev  0x0000000000001f89      0x16f ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
+ .debug_abbrev  0x00000000000020f8      0x17c ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
+ .debug_abbrev  0x0000000000002274      0x128 ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
+ .debug_abbrev  0x000000000000239c       0x14 ../Obj/mega328_T4_v2_st7565_Li-Po/samplingADC.o
+ .debug_abbrev  0x00000000000023b0      0x189 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
+ .debug_abbrev  0x0000000000002539      0x1ed ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
 
-.debug_line     0x0000000000000000     0x7988
+.debug_line     0x0000000000000000     0x7986
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x0000000000000000       0x1a /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328p.o
- .debug_line    0x000000000000001a      0x1a2 ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
- .debug_line    0x00000000000001bc      0x75d ../Obj/mega328_T4_v2_st7565/lcd-routines.o
- .debug_line    0x0000000000000919       0xd4 ../Obj/mega328_T4_v2_st7565/i2lcd.o
- .debug_line    0x00000000000009ed      0x1d6 ../Obj/mega328_T4_v2_st7565/PinLayout.o
- .debug_line    0x0000000000000bc3      0x106 ../Obj/mega328_T4_v2_st7565/RvalOut.o
- .debug_line    0x0000000000000cc9      0x264 ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
- .debug_line    0x0000000000000f2d      0x26c ../Obj/mega328_T4_v2_st7565/DisplayValue.o
- .debug_line    0x0000000000001199       0xb2 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
- .debug_line    0x000000000000124b      0x116 ../Obj/mega328_T4_v2_st7565/wait1000ms.o
- .debug_line    0x0000000000001361      0x126 ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
- .debug_line    0x0000000000001487      0x269 ../Obj/mega328_T4_v2_st7565/ReadADC.o
- .debug_line    0x00000000000016f0      0x2de ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
- .debug_line    0x00000000000019ce      0x1c3 ../Obj/mega328_T4_v2_st7565/RefVoltage.o
- .debug_line    0x0000000000001b91     0x13cb ../Obj/mega328_T4_v2_st7565/main.o
- .debug_line    0x0000000000002f5c      0x134 ../Obj/mega328_T4_v2_st7565/Battery_check.o
- .debug_line    0x0000000000003090      0xad4 ../Obj/mega328_T4_v2_st7565/CheckPins.o
- .debug_line    0x0000000000003b64      0x2e8 ../Obj/mega328_T4_v2_st7565/GetResistance.o
- .debug_line    0x0000000000003e4c       0xa6 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
- .debug_line    0x0000000000003ef2      0x1dc ../Obj/mega328_T4_v2_st7565/EntladePins.o
- .debug_line    0x00000000000040ce      0x510 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
- .debug_line    0x00000000000045de      0x188 ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
- .debug_line    0x0000000000004766      0x1c1 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
- .debug_line    0x0000000000004927      0x443 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
- .debug_line    0x0000000000004d6a       0xfa ../Obj/mega328_T4_v2_st7565/get_log.o
- .debug_line    0x0000000000004e64      0x3a6 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
- .debug_line    0x000000000000520a      0x8aa ../Obj/mega328_T4_v2_st7565/GetESR.o
- .debug_line    0x0000000000005ab4      0x1fb ../Obj/mega328_T4_v2_st7565/GetVloss.o
- .debug_line    0x0000000000005caf      0x98c ../Obj/mega328_T4_v2_st7565/function_menu.o
- .debug_line    0x000000000000663b       0xb9 ../Obj/mega328_T4_v2_st7565/message_key_released.o
- .debug_line    0x00000000000066f4      0x37d ../Obj/mega328_T4_v2_st7565/GetFrequency.o
- .debug_line    0x0000000000006a71      0x250 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
- .debug_line    0x0000000000006cc1      0x228 ../Obj/mega328_T4_v2_st7565/ShowData.o
- .debug_line    0x0000000000006ee9      0x309 ../Obj/mega328_T4_v2_st7565/samplingADC.o
- .debug_line    0x00000000000071f2      0x2a4 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
- .debug_line    0x0000000000007496      0x4f2 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+ .debug_line    0x000000000000001a      0x1a2 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd_hw_4_bit.o
+ .debug_line    0x00000000000001bc      0x75d ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+ .debug_line    0x0000000000000919       0xd4 ../Obj/mega328_T4_v2_st7565_Li-Po/i2lcd.o
+ .debug_line    0x00000000000009ed      0x1d6 ../Obj/mega328_T4_v2_st7565_Li-Po/PinLayout.o
+ .debug_line    0x0000000000000bc3      0x106 ../Obj/mega328_T4_v2_st7565_Li-Po/RvalOut.o
+ .debug_line    0x0000000000000cc9      0x264 ../Obj/mega328_T4_v2_st7565_Li-Po/UfAusgabe.o
+ .debug_line    0x0000000000000f2d      0x26c ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
+ .debug_line    0x0000000000001199       0xb2 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
+ .debug_line    0x000000000000124b      0x116 ../Obj/mega328_T4_v2_st7565_Li-Po/wait1000ms.o
+ .debug_line    0x0000000000001361      0x126 ../Obj/mega328_T4_v2_st7565_Li-Po/sleep_5ms.o
+ .debug_line    0x0000000000001487      0x269 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadADC.o
+ .debug_line    0x00000000000016f0      0x2de ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
+ .debug_line    0x00000000000019ce      0x1c3 ../Obj/mega328_T4_v2_st7565_Li-Po/RefVoltage.o
+ .debug_line    0x0000000000001b91     0x13cb ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ .debug_line    0x0000000000002f5c      0x132 ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
+ .debug_line    0x000000000000308e      0xad4 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
+ .debug_line    0x0000000000003b62      0x2e8 ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
+ .debug_line    0x0000000000003e4a       0xa6 ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
+ .debug_line    0x0000000000003ef0      0x1dc ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
+ .debug_line    0x00000000000040cc      0x510 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
+ .debug_line    0x00000000000045dc      0x188 ../Obj/mega328_T4_v2_st7565_Li-Po/GetRLmultip.o
+ .debug_line    0x0000000000004764      0x1c1 ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
+ .debug_line    0x0000000000004925      0x443 ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
+ .debug_line    0x0000000000004d68       0xfa ../Obj/mega328_T4_v2_st7565_Li-Po/get_log.o
+ .debug_line    0x0000000000004e62      0x3a6 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
+ .debug_line    0x0000000000005208      0x8aa ../Obj/mega328_T4_v2_st7565_Li-Po/GetESR.o
+ .debug_line    0x0000000000005ab2      0x1fb ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
+ .debug_line    0x0000000000005cad      0x98c ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
+ .debug_line    0x0000000000006639       0xb9 ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
+ .debug_line    0x00000000000066f2      0x37d ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
+ .debug_line    0x0000000000006a6f      0x250 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
+ .debug_line    0x0000000000006cbf      0x228 ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
+ .debug_line    0x0000000000006ee7      0x309 ../Obj/mega328_T4_v2_st7565_Li-Po/samplingADC.o
+ .debug_line    0x00000000000071f0      0x2a4 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
+ .debug_line    0x0000000000007494      0x4f2 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
 
 .debug_frame    0x0000000000000000      0xd40
  *(.debug_frame)
- .debug_frame   0x0000000000000000      0x2b8 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
- .debug_frame   0x00000000000002b8       0x94 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
- .debug_frame   0x000000000000034c       0x40 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
- .debug_frame   0x000000000000038c       0x64 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
- .debug_frame   0x00000000000003f0      0x14c ../Obj/mega328_T4_v2_st7565/main.o
- .debug_frame   0x000000000000053c       0x38 ../Obj/mega328_T4_v2_st7565/Battery_check.o
- .debug_frame   0x0000000000000574       0x68 ../Obj/mega328_T4_v2_st7565/CheckPins.o
- .debug_frame   0x00000000000005dc       0x48 ../Obj/mega328_T4_v2_st7565/GetResistance.o
- .debug_frame   0x0000000000000624       0x2c ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
- .debug_frame   0x0000000000000650       0x54 ../Obj/mega328_T4_v2_st7565/EntladePins.o
- .debug_frame   0x00000000000006a4       0xd0 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
- .debug_frame   0x0000000000000774       0x40 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
- .debug_frame   0x00000000000007b4       0xd4 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
- .debug_frame   0x0000000000000888       0x4c ../Obj/mega328_T4_v2_st7565/ReadInductance.o
- .debug_frame   0x00000000000008d4       0x40 ../Obj/mega328_T4_v2_st7565/GetVloss.o
- .debug_frame   0x0000000000000914      0x128 ../Obj/mega328_T4_v2_st7565/function_menu.o
- .debug_frame   0x0000000000000a3c       0x30 ../Obj/mega328_T4_v2_st7565/message_key_released.o
- .debug_frame   0x0000000000000a6c       0xe8 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
- .debug_frame   0x0000000000000b54       0x3c ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
- .debug_frame   0x0000000000000b90       0x48 ../Obj/mega328_T4_v2_st7565/ShowData.o
- .debug_frame   0x0000000000000bd8       0xc8 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
- .debug_frame   0x0000000000000ca0       0xa0 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+ .debug_frame   0x0000000000000000      0x2b8 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+ .debug_frame   0x00000000000002b8       0x94 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
+ .debug_frame   0x000000000000034c       0x40 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
+ .debug_frame   0x000000000000038c       0x64 ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
+ .debug_frame   0x00000000000003f0      0x14c ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ .debug_frame   0x000000000000053c       0x38 ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
+ .debug_frame   0x0000000000000574       0x68 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
+ .debug_frame   0x00000000000005dc       0x48 ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
+ .debug_frame   0x0000000000000624       0x2c ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
+ .debug_frame   0x0000000000000650       0x54 ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
+ .debug_frame   0x00000000000006a4       0xd0 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
+ .debug_frame   0x0000000000000774       0x40 ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
+ .debug_frame   0x00000000000007b4       0xd4 ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
+ .debug_frame   0x0000000000000888       0x4c ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
+ .debug_frame   0x00000000000008d4       0x40 ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
+ .debug_frame   0x0000000000000914      0x128 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
+ .debug_frame   0x0000000000000a3c       0x30 ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
+ .debug_frame   0x0000000000000a6c       0xe8 ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
+ .debug_frame   0x0000000000000b54       0x3c ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
+ .debug_frame   0x0000000000000b90       0x48 ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
+ .debug_frame   0x0000000000000bd8       0xc8 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
+ .debug_frame   0x0000000000000ca0       0xa0 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
 
-.debug_str      0x0000000000000000     0x1b40
+.debug_str      0x0000000000000000     0x1b46
  *(.debug_str)
  .debug_str     0x0000000000000000      0x208 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328p.o
- .debug_str     0x0000000000000208      0x525 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
-                                        0x5a1 (size before relaxing)
- .debug_str     0x000000000000072d       0xb5 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
-                                        0x2cb (size before relaxing)
- .debug_str     0x00000000000007e2       0x6e ../Obj/mega328_T4_v2_st7565/lcd-draw.o
-                                        0x288 (size before relaxing)
- .debug_str     0x0000000000000850       0xb3 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
-                                        0x2f4 (size before relaxing)
- .debug_str     0x0000000000000903      0xa2f ../Obj/mega328_T4_v2_st7565/main.o
-                                        0xf49 (size before relaxing)
- .debug_str     0x0000000000001332       0x33 ../Obj/mega328_T4_v2_st7565/Battery_check.o
-                                        0x28b (size before relaxing)
- .debug_str     0x0000000000001365      0x175 ../Obj/mega328_T4_v2_st7565/CheckPins.o
-                                        0x420 (size before relaxing)
- .debug_str     0x00000000000014da       0x33 ../Obj/mega328_T4_v2_st7565/GetResistance.o
-                                        0x3a8 (size before relaxing)
- .debug_str     0x000000000000150d       0x2f ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
-                                        0x1f6 (size before relaxing)
- .debug_str     0x000000000000153c       0x29 ../Obj/mega328_T4_v2_st7565/EntladePins.o
-                                        0x224 (size before relaxing)
- .debug_str     0x0000000000001565       0xcd ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
-                                        0x434 (size before relaxing)
- .debug_str     0x0000000000001632       0x30 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
-                                        0x2b1 (size before relaxing)
- .debug_str     0x0000000000001662       0xef ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
-                                        0x54c (size before relaxing)
- .debug_str     0x0000000000001751       0x92 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
-                                        0x37e (size before relaxing)
- .debug_str     0x00000000000017e3       0x20 ../Obj/mega328_T4_v2_st7565/GetVloss.o
-                                        0x2aa (size before relaxing)
- .debug_str     0x0000000000001803      0x12a ../Obj/mega328_T4_v2_st7565/function_menu.o
-                                        0x5c6 (size before relaxing)
- .debug_str     0x000000000000192d       0x21 ../Obj/mega328_T4_v2_st7565/message_key_released.o
-                                        0x218 (size before relaxing)
- .debug_str     0x000000000000194e       0x7f ../Obj/mega328_T4_v2_st7565/GetFrequency.o
-                                        0x31d (size before relaxing)
- .debug_str     0x00000000000019cd       0x21 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
-                                        0x30b (size before relaxing)
- .debug_str     0x00000000000019ee       0x32 ../Obj/mega328_T4_v2_st7565/ShowData.o
-                                        0x39e (size before relaxing)
- .debug_str     0x0000000000001a20       0x60 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
-                                        0x36b (size before relaxing)
- .debug_str     0x0000000000001a80       0xc0 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
-                                        0x410 (size before relaxing)
+ .debug_str     0x0000000000000208      0x52b ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+                                        0x5a7 (size before relaxing)
+ .debug_str     0x0000000000000733       0xb5 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
+                                        0x2d1 (size before relaxing)
+ .debug_str     0x00000000000007e8       0x6e ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
+                                        0x28e (size before relaxing)
+ .debug_str     0x0000000000000856       0xb3 ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
+                                        0x2fa (size before relaxing)
+ .debug_str     0x0000000000000909      0xa2f ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+                                        0xf4f (size before relaxing)
+ .debug_str     0x0000000000001338       0x33 ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
+                                        0x291 (size before relaxing)
+ .debug_str     0x000000000000136b      0x175 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
+                                        0x426 (size before relaxing)
+ .debug_str     0x00000000000014e0       0x33 ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
+                                        0x3ae (size before relaxing)
+ .debug_str     0x0000000000001513       0x2f ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
+                                        0x1fc (size before relaxing)
+ .debug_str     0x0000000000001542       0x29 ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
+                                        0x22a (size before relaxing)
+ .debug_str     0x000000000000156b       0xcd ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
+                                        0x43a (size before relaxing)
+ .debug_str     0x0000000000001638       0x30 ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
+                                        0x2b7 (size before relaxing)
+ .debug_str     0x0000000000001668       0xef ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
+                                        0x552 (size before relaxing)
+ .debug_str     0x0000000000001757       0x92 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
+                                        0x384 (size before relaxing)
+ .debug_str     0x00000000000017e9       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
+                                        0x2b0 (size before relaxing)
+ .debug_str     0x0000000000001809      0x12a ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
+                                        0x5cc (size before relaxing)
+ .debug_str     0x0000000000001933       0x21 ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
+                                        0x21e (size before relaxing)
+ .debug_str     0x0000000000001954       0x7f ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
+                                        0x323 (size before relaxing)
+ .debug_str     0x00000000000019d3       0x21 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
+                                        0x311 (size before relaxing)
+ .debug_str     0x00000000000019f4       0x32 ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
+                                        0x3a4 (size before relaxing)
+ .debug_str     0x0000000000001a26       0x60 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
+                                        0x371 (size before relaxing)
+ .debug_str     0x0000000000001a86       0xc0 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
+                                        0x416 (size before relaxing)
 
 .debug_loc      0x0000000000000000     0x6e79
  *(.debug_loc)
- .debug_loc     0x0000000000000000      0xb2b ../Obj/mega328_T4_v2_st7565/lcd-routines.o
- .debug_loc     0x0000000000000b2b      0x4c2 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
- .debug_loc     0x0000000000000fed      0x11a ../Obj/mega328_T4_v2_st7565/lcd-draw.o
- .debug_loc     0x0000000000001107      0x1d7 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
- .debug_loc     0x00000000000012de      0x8d9 ../Obj/mega328_T4_v2_st7565/main.o
- .debug_loc     0x0000000000001bb7       0x8b ../Obj/mega328_T4_v2_st7565/Battery_check.o
- .debug_loc     0x0000000000001c42     0x1a2b ../Obj/mega328_T4_v2_st7565/CheckPins.o
- .debug_loc     0x000000000000366d      0x7eb ../Obj/mega328_T4_v2_st7565/GetResistance.o
- .debug_loc     0x0000000000003e58       0x72 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
- .debug_loc     0x0000000000003eca      0x207 ../Obj/mega328_T4_v2_st7565/EntladePins.o
- .debug_loc     0x00000000000040d1      0x440 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
- .debug_loc     0x0000000000004511       0x72 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
- .debug_loc     0x0000000000004583      0x35d ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
- .debug_loc     0x00000000000048e0      0x3f5 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
- .debug_loc     0x0000000000004cd5      0x229 ../Obj/mega328_T4_v2_st7565/GetVloss.o
- .debug_loc     0x0000000000004efe      0xa04 ../Obj/mega328_T4_v2_st7565/function_menu.o
- .debug_loc     0x0000000000005902       0xa9 ../Obj/mega328_T4_v2_st7565/message_key_released.o
- .debug_loc     0x00000000000059ab      0x349 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
- .debug_loc     0x0000000000005cf4       0xf3 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
- .debug_loc     0x0000000000005de7      0x101 ../Obj/mega328_T4_v2_st7565/ShowData.o
- .debug_loc     0x0000000000005ee8      0x5dc ../Obj/mega328_T4_v2_st7565/sampling_cap.o
- .debug_loc     0x00000000000064c4      0x9b5 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+ .debug_loc     0x0000000000000000      0xb2b ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+ .debug_loc     0x0000000000000b2b      0x4c2 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
+ .debug_loc     0x0000000000000fed      0x11a ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
+ .debug_loc     0x0000000000001107      0x1d7 ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
+ .debug_loc     0x00000000000012de      0x8d9 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ .debug_loc     0x0000000000001bb7       0x8b ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
+ .debug_loc     0x0000000000001c42     0x1a2b ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
+ .debug_loc     0x000000000000366d      0x7eb ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
+ .debug_loc     0x0000000000003e58       0x72 ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
+ .debug_loc     0x0000000000003eca      0x207 ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
+ .debug_loc     0x00000000000040d1      0x440 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
+ .debug_loc     0x0000000000004511       0x72 ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
+ .debug_loc     0x0000000000004583      0x35d ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
+ .debug_loc     0x00000000000048e0      0x3f5 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
+ .debug_loc     0x0000000000004cd5      0x229 ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
+ .debug_loc     0x0000000000004efe      0xa04 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
+ .debug_loc     0x0000000000005902       0xa9 ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
+ .debug_loc     0x00000000000059ab      0x349 ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
+ .debug_loc     0x0000000000005cf4       0xf3 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
+ .debug_loc     0x0000000000005de7      0x101 ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
+ .debug_loc     0x0000000000005ee8      0x5dc ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
+ .debug_loc     0x00000000000064c4      0x9b5 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -1927,30 +1927,30 @@ END GROUP
 
 .debug_ranges   0x0000000000000000      0x450
  *(.debug_ranges)
- .debug_ranges  0x0000000000000000      0x120 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
- .debug_ranges  0x0000000000000120       0x28 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
- .debug_ranges  0x0000000000000148       0x18 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
- .debug_ranges  0x0000000000000160       0x38 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
- .debug_ranges  0x0000000000000198       0x88 ../Obj/mega328_T4_v2_st7565/main.o
- .debug_ranges  0x0000000000000220       0x10 ../Obj/mega328_T4_v2_st7565/Battery_check.o
- .debug_ranges  0x0000000000000230       0x18 ../Obj/mega328_T4_v2_st7565/CheckPins.o
- .debug_ranges  0x0000000000000248       0x10 ../Obj/mega328_T4_v2_st7565/GetResistance.o
- .debug_ranges  0x0000000000000258       0x10 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
- .debug_ranges  0x0000000000000268       0x10 ../Obj/mega328_T4_v2_st7565/EntladePins.o
- .debug_ranges  0x0000000000000278       0x28 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
- .debug_ranges  0x00000000000002a0       0x10 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
- .debug_ranges  0x00000000000002b0       0x38 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
- .debug_ranges  0x00000000000002e8       0x10 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
- .debug_ranges  0x00000000000002f8       0x10 ../Obj/mega328_T4_v2_st7565/GetVloss.o
- .debug_ranges  0x0000000000000308       0x80 ../Obj/mega328_T4_v2_st7565/function_menu.o
- .debug_ranges  0x0000000000000388       0x10 ../Obj/mega328_T4_v2_st7565/message_key_released.o
- .debug_ranges  0x0000000000000398       0x30 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
- .debug_ranges  0x00000000000003c8       0x10 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
- .debug_ranges  0x00000000000003d8       0x10 ../Obj/mega328_T4_v2_st7565/ShowData.o
- .debug_ranges  0x00000000000003e8       0x20 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
- .debug_ranges  0x0000000000000408       0x48 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+ .debug_ranges  0x0000000000000000      0x120 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-routines.o
+ .debug_ranges  0x0000000000000120       0x28 ../Obj/mega328_T4_v2_st7565_Li-Po/DisplayValue.o
+ .debug_ranges  0x0000000000000148       0x18 ../Obj/mega328_T4_v2_st7565_Li-Po/lcd-draw.o
+ .debug_ranges  0x0000000000000160       0x38 ../Obj/mega328_T4_v2_st7565_Li-Po/wait_for_key_ms.o
+ .debug_ranges  0x0000000000000198       0x88 ../Obj/mega328_T4_v2_st7565_Li-Po/main.o
+ .debug_ranges  0x0000000000000220       0x10 ../Obj/mega328_T4_v2_st7565_Li-Po/Battery_check.o
+ .debug_ranges  0x0000000000000230       0x18 ../Obj/mega328_T4_v2_st7565_Li-Po/CheckPins.o
+ .debug_ranges  0x0000000000000248       0x10 ../Obj/mega328_T4_v2_st7565_Li-Po/GetResistance.o
+ .debug_ranges  0x0000000000000258       0x10 ../Obj/mega328_T4_v2_st7565_Li-Po/ChargePin10ms.o
+ .debug_ranges  0x0000000000000268       0x10 ../Obj/mega328_T4_v2_st7565_Li-Po/EntladePins.o
+ .debug_ranges  0x0000000000000278       0x28 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadCapacity.o
+ .debug_ranges  0x00000000000002a0       0x10 ../Obj/mega328_T4_v2_st7565_Li-Po/Calibrate_UR.o
+ .debug_ranges  0x00000000000002b0       0x38 ../Obj/mega328_T4_v2_st7565_Li-Po/show_Resis_Cap.o
+ .debug_ranges  0x00000000000002e8       0x10 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadInductance.o
+ .debug_ranges  0x00000000000002f8       0x10 ../Obj/mega328_T4_v2_st7565_Li-Po/GetVloss.o
+ .debug_ranges  0x0000000000000308       0x80 ../Obj/mega328_T4_v2_st7565_Li-Po/function_menu.o
+ .debug_ranges  0x0000000000000388       0x10 ../Obj/mega328_T4_v2_st7565_Li-Po/message_key_released.o
+ .debug_ranges  0x0000000000000398       0x30 ../Obj/mega328_T4_v2_st7565_Li-Po/GetFrequency.o
+ .debug_ranges  0x00000000000003c8       0x10 ../Obj/mega328_T4_v2_st7565_Li-Po/ReadBigCap.o
+ .debug_ranges  0x00000000000003d8       0x10 ../Obj/mega328_T4_v2_st7565_Li-Po/ShowData.o
+ .debug_ranges  0x00000000000003e8       0x20 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_cap.o
+ .debug_ranges  0x0000000000000408       0x48 ../Obj/mega328_T4_v2_st7565_Li-Po/sampling_lc.o
 
 .debug_macro
  *(.debug_macro)
-OUTPUT(../Obj/mega328_T4_v2_st7565/mega328_T4_v2_st7565.elf elf32-avr)
+OUTPUT(../Obj/mega328_T4_v2_st7565_Li-Po/mega328_T4_v2_st7565_Li-Po.elf elf32-avr)
 LOAD linker stubs
