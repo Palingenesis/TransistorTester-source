@@ -1,0 +1,17 @@
+
+This version is by Tim Jackson.1960
+I have altered some of the font.h files and the bitmaps.h to show better Numbers (I think so).
+If your interested in an editor for small image conversion I have done a windows application.
+https://tims-pc-applications.blogspot.com/2020/05/tims-image-pixel-editor.html
+
+I thought the the results where shown too close to the Large Icon,
+so I have altered the autoconfig.h so that a space can be inserted after the Icon using the Makefile.
+ther is a new #definition called SPACE_FROM_ICON, this can be given a value in pixels to move the text to the right.
+
+I have set the BAT_POOR=3200.
+This is becouse I am making a version of the Chinese LCR-T4 that runs of a 3.7 Li-Po battery.
+This version has a BOOST from the Li-Po and a charger for charging the Li-Po.
+The PCB has been modifide so that the 10k Resistor (R3) is now directly connected to the Li-Po, not the power supply.
+Thios way the Battery reading is from the Li-Po battery and not from the Power in (form the BOOST).
+I will be doing an Intructable once I have finished it.
+https://www.instructables.com/member/Palingenesis/instructables/
