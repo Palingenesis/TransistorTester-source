@@ -13,5 +13,6 @@ This is becouse I am making a version of the Chinese LCR-T4 that runs of a 3.7 L
 This version has a BOOST from the Li-Po and a charger for charging the Li-Po.
 The PCB has been modifide so that the 10k Resistor (R3) is now directly connected to the Li-Po, not the power supply.
 Thios way the Battery reading is from the Li-Po battery and not from the Power in (form the BOOST).
-I will be doing an Intructable once I have finished it.
-https://www.instructables.com/member/Palingenesis/instructables/
+I have done an Insructable.
+https://www.instructables.com/LCR-T4-Upgrade/
+
